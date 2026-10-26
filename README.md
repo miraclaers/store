@@ -205,7 +205,6 @@ To access the back-office management console:
    - **Email:** `admin@aprilstore.com`
    - **Password:** `admin123`
 3. Manage products, review customer orders, inspect AI OCR receipt verification, and open the embedded Sanity Studio at `/studio`.
-
 ---
 
 ## 📄 License
