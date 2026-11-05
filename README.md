@@ -208,5 +208,4 @@ To access the back-office management console:
 ---
 
 ## 📄 License
-
 This project is licensed under the MIT License.
